@@ -1,0 +1,901 @@
+Trial 1: Array size = 100
+	Time: 0sec 0.235963msec
+Trial 2: Array size = 102
+	Time: 0sec 0.484505msec
+Trial 3: Array size = 104
+	Time: 0sec 0.738663msec
+Trial 4: Array size = 106
+	Time: 0sec 1.00605msec
+Trial 5: Array size = 108
+	Time: 0sec 1.28028msec
+Trial 6: Array size = 110
+	Time: 0sec 1.5653msec
+Trial 7: Array size = 112
+	Time: 0sec 1.85958msec
+Trial 8: Array size = 114
+	Time: 0sec 2.16411msec
+Trial 9: Array size = 116
+	Time: 0sec 2.47646msec
+Trial 10: Array size = 118
+	Time: 0sec 2.79849msec
+Trial 11: Array size = 120
+	Time: 0sec 3.13373msec
+Trial 12: Array size = 122
+	Time: 0sec 3.48162msec
+Trial 13: Array size = 124
+	Time: 0sec 3.84042msec
+Trial 14: Array size = 126
+	Time: 0sec 4.20917msec
+Trial 15: Array size = 128
+	Time: 0sec 4.59128msec
+Trial 16: Array size = 130
+	Time: 0sec 4.98086msec
+Trial 17: Array size = 132
+	Time: 0sec 5.38333msec
+Trial 18: Array size = 134
+	Time: 0sec 5.79675msec
+Trial 19: Array size = 136
+	Time: 0sec 6.22192msec
+Trial 20: Array size = 138
+	Time: 0sec 6.66197msec
+Trial 21: Array size = 140
+	Time: 0sec 7.11453msec
+Trial 22: Array size = 142
+	Time: 0sec 7.57916msec
+Trial 23: Array size = 144
+	Time: 0sec 8.05744msec
+Trial 24: Array size = 146
+	Time: 0sec 8.54877msec
+Trial 25: Array size = 148
+	Time: 0sec 9.05106msec
+Trial 26: Array size = 150
+	Time: 0sec 9.56683msec
+Trial 27: Array size = 152
+	Time: 0sec 10.0969msec
+Trial 28: Array size = 154
+	Time: 0sec 10.6438msec
+Trial 29: Array size = 156
+	Time: 0sec 11.2051msec
+Trial 30: Array size = 158
+	Time: 0sec 11.7803msec
+Trial 31: Array size = 160
+	Time: 0sec 12.3721msec
+Trial 32: Array size = 162
+	Time: 0sec 12.9763msec
+Trial 33: Array size = 164
+	Time: 0sec 13.5919msec
+Trial 34: Array size = 166
+	Time: 0sec 14.2209msec
+Trial 35: Array size = 168
+	Time: 0sec 14.8679msec
+Trial 36: Array size = 170
+	Time: 0sec 15.5298msec
+Trial 37: Array size = 172
+	Time: 0sec 16.2061msec
+Trial 38: Array size = 174
+	Time: 0sec 16.9003msec
+Trial 39: Array size = 176
+	Time: 0sec 17.6106msec
+Trial 40: Array size = 178
+	Time: 0sec 18.3316msec
+Trial 41: Array size = 180
+	Time: 0sec 19.0708msec
+Trial 42: Array size = 182
+	Time: 0sec 19.8276msec
+Trial 43: Array size = 184
+	Time: 0sec 20.5969msec
+Trial 44: Array size = 186
+	Time: 0sec 21.388msec
+Trial 45: Array size = 188
+	Time: 0sec 22.1976msec
+Trial 46: Array size = 190
+	Time: 0sec 23.022msec
+Trial 47: Array size = 192
+	Time: 0sec 23.8648msec
+Trial 48: Array size = 194
+	Time: 0sec 24.7253msec
+Trial 49: Array size = 196
+	Time: 0sec 25.6014msec
+Trial 50: Array size = 198
+	Time: 0sec 26.4958msec
+Trial 51: Array size = 200
+	Time: 0sec 27.406msec
+Trial 52: Array size = 202
+	Time: 0sec 28.3367msec
+Trial 53: Array size = 204
+	Time: 0sec 29.2875msec
+Trial 54: Array size = 206
+	Time: 0sec 30.2646msec
+Trial 55: Array size = 208
+	Time: 0sec 31.2519msec
+Trial 56: Array size = 210
+	Time: 0sec 32.2577msec
+Trial 57: Array size = 212
+	Time: 0sec 33.2875msec
+Trial 58: Array size = 214
+	Time: 0sec 34.3334msec
+Trial 59: Array size = 216
+	Time: 0sec 35.3981msec
+Trial 60: Array size = 218
+	Time: 0sec 36.4838msec
+Trial 61: Array size = 220
+	Time: 0sec 37.5884msec
+Trial 62: Array size = 222
+	Time: 0sec 38.7146msec
+Trial 63: Array size = 224
+	Time: 0sec 39.858msec
+Trial 64: Array size = 226
+	Time: 0sec 41.025msec
+Trial 65: Array size = 228
+	Time: 0sec 42.2071msec
+Trial 66: Array size = 230
+	Time: 0sec 43.4072msec
+Trial 67: Array size = 232
+	Time: 0sec 44.6304msec
+Trial 68: Array size = 234
+	Time: 0sec 45.8766msec
+Trial 69: Array size = 236
+	Time: 0sec 47.143msec
+Trial 70: Array size = 238
+	Time: 0sec 48.4352msec
+Trial 71: Array size = 240
+	Time: 0sec 49.7455msec
+Trial 72: Array size = 242
+	Time: 0sec 51.0762msec
+Trial 73: Array size = 244
+	Time: 0sec 52.4307msec
+Trial 74: Array size = 246
+	Time: 0sec 53.8083msec
+Trial 75: Array size = 248
+	Time: 0sec 55.2104msec
+Trial 76: Array size = 250
+	Time: 0sec 56.6342msec
+Trial 77: Array size = 252
+	Time: 0sec 58.0786msec
+Trial 78: Array size = 254
+	Time: 0sec 59.5497msec
+Trial 79: Array size = 256
+	Time: 0sec 61.0419msec
+Trial 80: Array size = 258
+	Time: 0sec 62.5534msec
+Trial 81: Array size = 260
+	Time: 0sec 64.0898msec
+Trial 82: Array size = 262
+	Time: 0sec 65.6501msec
+Trial 83: Array size = 264
+	Time: 0sec 67.2327msec
+Trial 84: Array size = 266
+	Time: 0sec 68.8419msec
+Trial 85: Array size = 268
+	Time: 0sec 70.4779msec
+Trial 86: Array size = 270
+	Time: 0sec 72.1346msec
+Trial 87: Array size = 272
+	Time: 0sec 73.816msec
+Trial 88: Array size = 274
+	Time: 0sec 75.5245msec
+Trial 89: Array size = 276
+	Time: 0sec 77.2572msec
+Trial 90: Array size = 278
+	Time: 0sec 79.0149msec
+Trial 91: Array size = 280
+	Time: 0sec 80.7998msec
+Trial 92: Array size = 282
+	Time: 0sec 82.6036msec
+Trial 93: Array size = 284
+	Time: 0sec 84.4394msec
+Trial 94: Array size = 286
+	Time: 0sec 86.3031msec
+Trial 95: Array size = 288
+	Time: 0sec 88.192msec
+Trial 96: Array size = 290
+	Time: 0sec 90.1044msec
+Trial 97: Array size = 292
+	Time: 0sec 92.0345msec
+Trial 98: Array size = 294
+	Time: 0sec 94.0094msec
+Trial 99: Array size = 296
+	Time: 0sec 96.016msec
+Trial 100: Array size = 298
+	Time: 0sec 98.0441msec
+Trial 101: Array size = 300
+	Time: 0sec 100.099msec
+Trial 102: Array size = 302
+	Time: 0sec 102.184msec
+Trial 103: Array size = 304
+	Time: 0sec 104.293msec
+Trial 104: Array size = 306
+	Time: 0sec 106.431msec
+Trial 105: Array size = 308
+	Time: 0sec 108.597msec
+Trial 106: Array size = 310
+	Time: 0sec 110.793msec
+Trial 107: Array size = 312
+	Time: 0sec 113.013msec
+Trial 108: Array size = 314
+	Time: 0sec 115.264msec
+Trial 109: Array size = 316
+	Time: 0sec 117.545msec
+Trial 110: Array size = 318
+	Time: 0sec 119.854msec
+Trial 111: Array size = 320
+	Time: 0sec 122.192msec
+Trial 112: Array size = 322
+	Time: 0sec 124.561msec
+Trial 113: Array size = 324
+	Time: 0sec 126.957msec
+Trial 114: Array size = 326
+	Time: 0sec 129.385msec
+Trial 115: Array size = 328
+	Time: 0sec 131.843msec
+Trial 116: Array size = 330
+	Time: 0sec 134.332msec
+Trial 117: Array size = 332
+	Time: 0sec 136.85msec
+Trial 118: Array size = 334
+	Time: 0sec 139.397msec
+Trial 119: Array size = 336
+	Time: 0sec 141.977msec
+Trial 120: Array size = 338
+	Time: 0sec 144.586msec
+Trial 121: Array size = 340
+	Time: 0sec 147.225msec
+Trial 122: Array size = 342
+	Time: 0sec 149.902msec
+Trial 123: Array size = 344
+	Time: 0sec 152.61msec
+Trial 124: Array size = 346
+	Time: 0sec 155.346msec
+Trial 125: Array size = 348
+	Time: 0sec 158.12msec
+Trial 126: Array size = 350
+	Time: 0sec 160.92msec
+Trial 127: Array size = 352
+	Time: 0sec 163.767msec
+Trial 128: Array size = 354
+	Time: 0sec 166.639msec
+Trial 129: Array size = 356
+	Time: 0sec 169.535msec
+Trial 130: Array size = 358
+	Time: 0sec 172.463msec
+Trial 131: Array size = 360
+	Time: 0sec 175.431msec
+Trial 132: Array size = 362
+	Time: 0sec 178.432msec
+Trial 133: Array size = 364
+	Time: 0sec 181.466msec
+Trial 134: Array size = 366
+	Time: 0sec 184.53msec
+Trial 135: Array size = 368
+	Time: 0sec 187.628msec
+Trial 136: Array size = 370
+	Time: 0sec 190.76msec
+Trial 137: Array size = 372
+	Time: 0sec 193.928msec
+Trial 138: Array size = 374
+	Time: 0sec 197.128msec
+Trial 139: Array size = 376
+	Time: 0sec 200.361msec
+Trial 140: Array size = 378
+	Time: 0sec 203.628msec
+Trial 141: Array size = 380
+	Time: 0sec 206.937msec
+Trial 142: Array size = 382
+	Time: 0sec 210.278msec
+Trial 143: Array size = 384
+	Time: 0sec 213.661msec
+Trial 144: Array size = 386
+	Time: 0sec 217.075msec
+Trial 145: Array size = 388
+	Time: 0sec 220.523msec
+Trial 146: Array size = 390
+	Time: 0sec 224.018msec
+Trial 147: Array size = 392
+	Time: 0sec 227.545msec
+Trial 148: Array size = 394
+	Time: 0sec 231.102msec
+Trial 149: Array size = 396
+	Time: 0sec 234.698msec
+Trial 150: Array size = 398
+	Time: 0sec 238.329msec
+Trial 151: Array size = 400
+	Time: 0sec 241.986msec
+Trial 152: Array size = 402
+	Time: 0sec 245.687msec
+Trial 153: Array size = 404
+	Time: 0sec 249.431msec
+Trial 154: Array size = 406
+	Time: 0sec 253.209msec
+Trial 155: Array size = 408
+	Time: 0sec 257.022msec
+Trial 156: Array size = 410
+	Time: 0sec 260.875msec
+Trial 157: Array size = 412
+	Time: 0sec 264.762msec
+Trial 158: Array size = 414
+	Time: 0sec 268.693msec
+Trial 159: Array size = 416
+	Time: 0sec 272.659msec
+Trial 160: Array size = 418
+	Time: 0sec 276.669msec
+Trial 161: Array size = 420
+	Time: 0sec 280.713msec
+Trial 162: Array size = 422
+	Time: 0sec 284.794msec
+Trial 163: Array size = 424
+	Time: 0sec 288.916msec
+Trial 164: Array size = 426
+	Time: 0sec 293.086msec
+Trial 165: Array size = 428
+	Time: 0sec 297.305msec
+Trial 166: Array size = 430
+	Time: 0sec 301.561msec
+Trial 167: Array size = 432
+	Time: 0sec 305.861msec
+Trial 168: Array size = 434
+	Time: 0sec 310.2msec
+Trial 169: Array size = 436
+	Time: 0sec 314.588msec
+Trial 170: Array size = 438
+	Time: 0sec 319.014msec
+Trial 171: Array size = 440
+	Time: 0sec 323.483msec
+Trial 172: Array size = 442
+	Time: 0sec 328.01msec
+Trial 173: Array size = 444
+	Time: 0sec 332.579msec
+Trial 174: Array size = 446
+	Time: 0sec 337.194msec
+Trial 175: Array size = 448
+	Time: 0sec 341.851msec
+Trial 176: Array size = 450
+	Time: 0sec 346.555msec
+Trial 177: Array size = 452
+	Time: 0sec 351.305msec
+Trial 178: Array size = 454
+	Time: 0sec 356.111msec
+Trial 179: Array size = 456
+	Time: 0sec 360.951msec
+Trial 180: Array size = 458
+	Time: 0sec 365.843msec
+Trial 181: Array size = 460
+	Time: 0sec 370.783msec
+Trial 182: Array size = 462
+	Time: 0sec 375.777msec
+Trial 183: Array size = 464
+	Time: 0sec 380.814msec
+Trial 184: Array size = 466
+	Time: 0sec 385.905msec
+Trial 185: Array size = 468
+	Time: 0sec 391.069msec
+Trial 186: Array size = 470
+	Time: 0sec 396.291msec
+Trial 187: Array size = 472
+	Time: 0sec 401.564msec
+Trial 188: Array size = 474
+	Time: 0sec 406.961msec
+Trial 189: Array size = 476
+	Time: 0sec 412.413msec
+Trial 190: Array size = 478
+	Time: 0sec 417.876msec
+Trial 191: Array size = 480
+	Time: 0sec 423.35msec
+Trial 192: Array size = 482
+	Time: 0sec 428.921msec
+Trial 193: Array size = 484
+	Time: 0sec 434.602msec
+Trial 194: Array size = 486
+	Time: 0sec 440.333msec
+Trial 195: Array size = 488
+	Time: 0sec 446.106msec
+Trial 196: Array size = 490
+	Time: 0sec 451.925msec
+Trial 197: Array size = 492
+	Time: 0sec 457.796msec
+Trial 198: Array size = 494
+	Time: 0sec 463.698msec
+Trial 199: Array size = 496
+	Time: 0sec 469.627msec
+Trial 200: Array size = 498
+	Time: 0sec 475.585msec
+Trial 201: Array size = 500
+	Time: 0sec 481.597msec
+Trial 202: Array size = 502
+	Time: 0sec 487.654msec
+Trial 203: Array size = 504
+	Time: 0sec 493.716msec
+Trial 204: Array size = 506
+	Time: 0sec 499.835msec
+Trial 205: Array size = 508
+	Time: 0sec 506.01msec
+Trial 206: Array size = 510
+	Time: 0sec 512.251msec
+Trial 207: Array size = 512
+	Time: 0sec 518.518msec
+Trial 208: Array size = 514
+	Time: 0sec 524.842msec
+Trial 209: Array size = 516
+	Time: 0sec 531.191msec
+Trial 210: Array size = 518
+	Time: 0sec 537.577msec
+Trial 211: Array size = 520
+	Time: 0sec 544.002msec
+Trial 212: Array size = 522
+	Time: 0sec 550.501msec
+Trial 213: Array size = 524
+	Time: 0sec 557.043msec
+Trial 214: Array size = 526
+	Time: 0sec 563.632msec
+Trial 215: Array size = 528
+	Time: 0sec 570.267msec
+Trial 216: Array size = 530
+	Time: 0sec 576.947msec
+Trial 217: Array size = 532
+	Time: 0sec 583.708msec
+Trial 218: Array size = 534
+	Time: 0sec 590.503msec
+Trial 219: Array size = 536
+	Time: 0sec 597.34msec
+Trial 220: Array size = 538
+	Time: 0sec 604.239msec
+Trial 221: Array size = 540
+	Time: 0sec 611.185msec
+Trial 222: Array size = 542
+	Time: 0sec 618.199msec
+Trial 223: Array size = 544
+	Time: 0sec 625.248msec
+Trial 224: Array size = 546
+	Time: 0sec 632.359msec
+Trial 225: Array size = 548
+	Time: 0sec 639.519msec
+Trial 226: Array size = 550
+	Time: 0sec 646.733msec
+Trial 227: Array size = 552
+	Time: 0sec 653.997msec
+Trial 228: Array size = 554
+	Time: 0sec 661.314msec
+Trial 229: Array size = 556
+	Time: 0sec 668.676msec
+Trial 230: Array size = 558
+	Time: 0sec 676.088msec
+Trial 231: Array size = 560
+	Time: 0sec 683.541msec
+Trial 232: Array size = 562
+	Time: 0sec 691.044msec
+Trial 233: Array size = 564
+	Time: 0sec 698.611msec
+Trial 234: Array size = 566
+	Time: 0sec 706.222msec
+Trial 235: Array size = 568
+	Time: 0sec 713.879msec
+Trial 236: Array size = 570
+	Time: 0sec 721.61msec
+Trial 237: Array size = 572
+	Time: 0sec 729.409msec
+Trial 238: Array size = 574
+	Time: 0sec 737.246msec
+Trial 239: Array size = 576
+	Time: 0sec 745.128msec
+Trial 240: Array size = 578
+	Time: 0sec 753.074msec
+Trial 241: Array size = 580
+	Time: 0sec 761.071msec
+Trial 242: Array size = 582
+	Time: 0sec 769.126msec
+Trial 243: Array size = 584
+	Time: 0sec 777.234msec
+Trial 244: Array size = 586
+	Time: 0sec 785.407msec
+Trial 245: Array size = 588
+	Time: 0sec 793.636msec
+Trial 246: Array size = 590
+	Time: 0sec 801.917msec
+Trial 247: Array size = 592
+	Time: 0sec 810.227msec
+Trial 248: Array size = 594
+	Time: 0sec 818.595msec
+Trial 249: Array size = 596
+	Time: 0sec 827.03msec
+Trial 250: Array size = 598
+	Time: 0sec 835.528msec
+Trial 251: Array size = 600
+	Time: 0sec 844.068msec
+Trial 252: Array size = 602
+	Time: 0sec 852.663msec
+Trial 253: Array size = 604
+	Time: 0sec 861.324msec
+Trial 254: Array size = 606
+	Time: 0sec 870.049msec
+Trial 255: Array size = 608
+	Time: 0sec 878.797msec
+Trial 256: Array size = 610
+	Time: 0sec 887.591msec
+Trial 257: Array size = 612
+	Time: 0sec 896.444msec
+Trial 258: Array size = 614
+	Time: 0sec 905.354msec
+Trial 259: Array size = 616
+	Time: 0sec 914.33msec
+Trial 260: Array size = 618
+	Time: 0sec 923.361msec
+Trial 261: Array size = 620
+	Time: 0sec 932.465msec
+Trial 262: Array size = 622
+	Time: 0sec 941.625msec
+Trial 263: Array size = 624
+	Time: 0sec 950.826msec
+Trial 264: Array size = 626
+	Time: 0sec 960.088msec
+Trial 265: Array size = 628
+	Time: 0sec 969.426msec
+Trial 266: Array size = 630
+	Time: 0sec 978.803msec
+Trial 267: Array size = 632
+	Time: 0sec 988.178msec
+Trial 268: Array size = 634
+	Time: 0sec 997.606msec
+Trial 269: Array size = 636
+	Time: 0sec 1007.11msec
+Trial 270: Array size = 638
+	Time: 0sec 1016.68msec
+Trial 271: Array size = 640
+	Time: 0sec 1026.29msec
+Trial 272: Array size = 642
+	Time: 0sec 1035.96msec
+Trial 273: Array size = 644
+	Time: 0sec 1045.68msec
+Trial 274: Array size = 646
+	Time: 0sec 1055.47msec
+Trial 275: Array size = 648
+	Time: 0sec 1065.31msec
+Trial 276: Array size = 650
+	Time: 0sec 1075.22msec
+Trial 277: Array size = 652
+	Time: 0sec 1085.21msec
+Trial 278: Array size = 654
+	Time: 0sec 1095.25msec
+Trial 279: Array size = 656
+	Time: 0sec 1105.34msec
+Trial 280: Array size = 658
+	Time: 0sec 1115.5msec
+Trial 281: Array size = 660
+	Time: 0sec 1125.71msec
+Trial 282: Array size = 662
+	Time: 0sec 1135.99msec
+Trial 283: Array size = 664
+	Time: 0sec 1146.33msec
+Trial 284: Array size = 666
+	Time: 0sec 1156.74msec
+Trial 285: Array size = 668
+	Time: 0sec 1167.22msec
+Trial 286: Array size = 670
+	Time: 0sec 1177.76msec
+Trial 287: Array size = 672
+	Time: 0sec 1188.35msec
+Trial 288: Array size = 674
+	Time: 0sec 1199msec
+Trial 289: Array size = 676
+	Time: 0sec 1209.73msec
+Trial 290: Array size = 678
+	Time: 0sec 1220.53msec
+Trial 291: Array size = 680
+	Time: 0sec 1231.37msec
+Trial 292: Array size = 682
+	Time: 0sec 1242.29msec
+Trial 293: Array size = 684
+	Time: 0sec 1253.27msec
+Trial 294: Array size = 686
+	Time: 0sec 1264.31msec
+Trial 295: Array size = 688
+	Time: 0sec 1275.39msec
+Trial 296: Array size = 690
+	Time: 0sec 1286.55msec
+Trial 297: Array size = 692
+	Time: 0sec 1297.79msec
+Trial 298: Array size = 694
+	Time: 0sec 1309.1msec
+Trial 299: Array size = 696
+	Time: 0sec 1320.45msec
+Trial 300: Array size = 698
+	Time: 0sec 1331.88msec
+Trial 301: Array size = 700
+	Time: 0sec 1343.37msec
+Trial 302: Array size = 702
+	Time: 0sec 1354.93msec
+Trial 303: Array size = 704
+	Time: 0sec 1366.54msec
+Trial 304: Array size = 706
+	Time: 0sec 1378.22msec
+Trial 305: Array size = 708
+	Time: 0sec 1389.96msec
+Trial 306: Array size = 710
+	Time: 0sec 1401.77msec
+Trial 307: Array size = 712
+	Time: 0sec 1413.64msec
+Trial 308: Array size = 714
+	Time: 0sec 1425.57msec
+Trial 309: Array size = 716
+	Time: 0sec 1437.57msec
+Trial 310: Array size = 718
+	Time: 0sec 1449.64msec
+Trial 311: Array size = 720
+	Time: 0sec 1461.77msec
+Trial 312: Array size = 722
+	Time: 0sec 1473.98msec
+Trial 313: Array size = 724
+	Time: 0sec 1486.26msec
+Trial 314: Array size = 726
+	Time: 0sec 1498.6msec
+Trial 315: Array size = 728
+	Time: 0sec 1511.02msec
+Trial 316: Array size = 730
+	Time: 0sec 1523.49msec
+Trial 317: Array size = 732
+	Time: 0sec 1536.05msec
+Trial 318: Array size = 734
+	Time: 0sec 1548.68msec
+Trial 319: Array size = 736
+	Time: 0sec 1561.36msec
+Trial 320: Array size = 738
+	Time: 0sec 1574.12msec
+Trial 321: Array size = 740
+	Time: 0sec 1586.96msec
+Trial 322: Array size = 742
+	Time: 0sec 1599.88msec
+Trial 323: Array size = 744
+	Time: 0sec 1612.82msec
+Trial 324: Array size = 746
+	Time: 0sec 1625.87msec
+Trial 325: Array size = 748
+	Time: 0sec 1638.99msec
+Trial 326: Array size = 750
+	Time: 0sec 1652.17msec
+Trial 327: Array size = 752
+	Time: 0sec 1665.41msec
+Trial 328: Array size = 754
+	Time: 0sec 1678.73msec
+Trial 329: Array size = 756
+	Time: 0sec 1692.13msec
+Trial 330: Array size = 758
+	Time: 0sec 1705.61msec
+Trial 331: Array size = 760
+	Time: 0sec 1719.14msec
+Trial 332: Array size = 762
+	Time: 0sec 1732.74msec
+Trial 333: Array size = 764
+	Time: 0sec 1746.41msec
+Trial 334: Array size = 766
+	Time: 0sec 1760.16msec
+Trial 335: Array size = 768
+	Time: 0sec 1773.97msec
+Trial 336: Array size = 770
+	Time: 0sec 1787.85msec
+Trial 337: Array size = 772
+	Time: 0sec 1801.8msec
+Trial 338: Array size = 774
+	Time: 0sec 1815.82msec
+Trial 339: Array size = 776
+	Time: 0sec 1829.89msec
+Trial 340: Array size = 778
+	Time: 0sec 1844.07msec
+Trial 341: Array size = 780
+	Time: 0sec 1858.34msec
+Trial 342: Array size = 782
+	Time: 0sec 1872.66msec
+Trial 343: Array size = 784
+	Time: 0sec 1887.07msec
+Trial 344: Array size = 786
+	Time: 0sec 1901.53msec
+Trial 345: Array size = 788
+	Time: 0sec 1916.07msec
+Trial 346: Array size = 790
+	Time: 0sec 1930.69msec
+Trial 347: Array size = 792
+	Time: 0sec 1945.35msec
+Trial 348: Array size = 794
+	Time: 0sec 1960.1msec
+Trial 349: Array size = 796
+	Time: 0sec 1974.93msec
+Trial 350: Array size = 798
+	Time: 0sec 1989.85msec
+Trial 351: Array size = 800
+	Time: 0sec 2004.81msec
+Trial 352: Array size = 802
+	Time: 0sec 2019.85msec
+Trial 353: Array size = 804
+	Time: 0sec 2034.98msec
+Trial 354: Array size = 806
+	Time: 0sec 2050.18msec
+Trial 355: Array size = 808
+	Time: 0sec 2065.46msec
+Trial 356: Array size = 810
+	Time: 0sec 2080.8msec
+Trial 357: Array size = 812
+	Time: 0sec 2096.23msec
+Trial 358: Array size = 814
+	Time: 0sec 2111.75msec
+Trial 359: Array size = 816
+	Time: 0sec 2127.32msec
+Trial 360: Array size = 818
+	Time: 0sec 2142.99msec
+Trial 361: Array size = 820
+	Time: 0sec 2158.73msec
+Trial 362: Array size = 822
+	Time: 0sec 2174.54msec
+Trial 363: Array size = 824
+	Time: 0sec 2190.42msec
+Trial 364: Array size = 826
+	Time: 0sec 2206.4msec
+Trial 365: Array size = 828
+	Time: 0sec 2222.46msec
+Trial 366: Array size = 830
+	Time: 0sec 2238.68msec
+Trial 367: Array size = 832
+	Time: 0sec 2255.01msec
+Trial 368: Array size = 834
+	Time: 0sec 2271.41msec
+Trial 369: Array size = 836
+	Time: 0sec 2287.89msec
+Trial 370: Array size = 838
+	Time: 0sec 2304.44msec
+Trial 371: Array size = 840
+	Time: 0sec 2321.06msec
+Trial 372: Array size = 842
+	Time: 0sec 2337.77msec
+Trial 373: Array size = 844
+	Time: 0sec 2354.56msec
+Trial 374: Array size = 846
+	Time: 0sec 2371.41msec
+Trial 375: Array size = 848
+	Time: 0sec 2388.34msec
+Trial 376: Array size = 850
+	Time: 0sec 2405.34msec
+Trial 377: Array size = 852
+	Time: 0sec 2422.5msec
+Trial 378: Array size = 854
+	Time: 0sec 2439.74msec
+Trial 379: Array size = 856
+	Time: 0sec 2457.04msec
+Trial 380: Array size = 858
+	Time: 0sec 2474.43msec
+Trial 381: Array size = 860
+	Time: 0sec 2491.93msec
+Trial 382: Array size = 862
+	Time: 0sec 2509.56msec
+Trial 383: Array size = 864
+	Time: 0sec 2527.08msec
+Trial 384: Array size = 866
+	Time: 0sec 2544.54msec
+Trial 385: Array size = 868
+	Time: 0sec 2562.14msec
+Trial 386: Array size = 870
+	Time: 0sec 2579.83msec
+Trial 387: Array size = 872
+	Time: 0sec 2597.61msec
+Trial 388: Array size = 874
+	Time: 0sec 2615.47msec
+Trial 389: Array size = 876
+	Time: 0sec 2633.41msec
+Trial 390: Array size = 878
+	Time: 0sec 2651.43msec
+Trial 391: Array size = 880
+	Time: 0sec 2669.54msec
+Trial 392: Array size = 882
+	Time: 0sec 2687.7msec
+Trial 393: Array size = 884
+	Time: 0sec 2706.01msec
+Trial 394: Array size = 886
+	Time: 0sec 2724.44msec
+Trial 395: Array size = 888
+	Time: 0sec 2742.95msec
+Trial 396: Array size = 890
+	Time: 0sec 2761.54msec
+Trial 397: Array size = 892
+	Time: 0sec 2780.24msec
+Trial 398: Array size = 894
+	Time: 0sec 2799msec
+Trial 399: Array size = 896
+	Time: 0sec 2817.81msec
+Trial 400: Array size = 898
+	Time: 0sec 2836.75msec
+Trial 401: Array size = 900
+	Time: 0sec 2855.74msec
+Trial 402: Array size = 902
+	Time: 0sec 2874.83msec
+Trial 403: Array size = 904
+	Time: 0sec 2893.98msec
+Trial 404: Array size = 906
+	Time: 0sec 2913.23msec
+Trial 405: Array size = 908
+	Time: 0sec 2932.57msec
+Trial 406: Array size = 910
+	Time: 0sec 2951.99msec
+Trial 407: Array size = 912
+	Time: 0sec 2971.49msec
+Trial 408: Array size = 914
+	Time: 0sec 2991.09msec
+Trial 409: Array size = 916
+	Time: 0sec 3010.74msec
+Trial 410: Array size = 918
+	Time: 0sec 3030.49msec
+Trial 411: Array size = 920
+	Time: 0sec 3050.32msec
+Trial 412: Array size = 922
+	Time: 0sec 3070.25msec
+Trial 413: Array size = 924
+	Time: 0sec 3090.28msec
+Trial 414: Array size = 926
+	Time: 0sec 3110.43msec
+Trial 415: Array size = 928
+	Time: 0sec 3130.65msec
+Trial 416: Array size = 930
+	Time: 0sec 3150.98msec
+Trial 417: Array size = 932
+	Time: 0sec 3171.4msec
+Trial 418: Array size = 934
+	Time: 0sec 3191.95msec
+Trial 419: Array size = 936
+	Time: 0sec 3212.55msec
+Trial 420: Array size = 938
+	Time: 0sec 3233.28msec
+Trial 421: Array size = 940
+	Time: 0sec 3254.14msec
+Trial 422: Array size = 942
+	Time: 0sec 3275.08msec
+Trial 423: Array size = 944
+	Time: 0sec 3296.11msec
+Trial 424: Array size = 946
+	Time: 0sec 3317.3msec
+Trial 425: Array size = 948
+	Time: 0sec 3338.75msec
+Trial 426: Array size = 950
+	Time: 0sec 3360.27msec
+Trial 427: Array size = 952
+	Time: 0sec 3381.83msec
+Trial 428: Array size = 954
+	Time: 0sec 3403.51msec
+Trial 429: Array size = 956
+	Time: 0sec 3425.3msec
+Trial 430: Array size = 958
+	Time: 0sec 3447.24msec
+Trial 431: Array size = 960
+	Time: 0sec 3469.29msec
+Trial 432: Array size = 962
+	Time: 0sec 3491.46msec
+Trial 433: Array size = 964
+	Time: 0sec 3513.94msec
+Trial 434: Array size = 966
+	Time: 0sec 3536.57msec
+Trial 435: Array size = 968
+	Time: 0sec 3559.27msec
+Trial 436: Array size = 970
+	Time: 0sec 3582.11msec
+Trial 437: Array size = 972
+	Time: 0sec 3605.14msec
+Trial 438: Array size = 974
+	Time: 0sec 3628.42msec
+Trial 439: Array size = 976
+	Time: 0sec 3651.86msec
+Trial 440: Array size = 978
+	Time: 0sec 3675.42msec
+Trial 441: Array size = 980
+	Time: 0sec 3699.12msec
+Trial 442: Array size = 982
+	Time: 0sec 3722.9msec
+Trial 443: Array size = 984
+	Time: 0sec 3746.74msec
+Trial 444: Array size = 986
+	Time: 0sec 3770.81msec
+Trial 445: Array size = 988
+	Time: 0sec 3795.03msec
+Trial 446: Array size = 990
+	Time: 0sec 3819.25msec
+Trial 447: Array size = 992
+	Time: 0sec 3843.51msec
+Trial 448: Array size = 994
+	Time: 0sec 3867.92msec
+Trial 449: Array size = 996
+	Time: 0sec 3892.51msec
+Trial 450: Array size = 998
+	Time: 0sec 3917.2msec
+
